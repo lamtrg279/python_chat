@@ -1,9 +1,3 @@
-'''
-Name: Lam Truong 15119071
-Date 11/10
-Assignment 3
-'''
-
 from socket import *
 import json
 import sys
